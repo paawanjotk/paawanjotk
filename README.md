@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @paawanjotk
-- 👀 I’m interested in AI safety.
-- 🌱 I’m currently learning programming and AI safety fundamentals at university.
-- 💞️ I’m looking to collaborate on problem solving in context of ethics surrounding technology.
-- 📫 How to reach me ... paawanjotkaur05@gmail.com
+# 👋 Hi, I’m Paawanjot Kaur
+
+### 🔧 Skills
+
+- **Programming Languages**: Java, Python, JavaScript
+- **Frameworks & Tools**: Spring Boot, React, Node.js, Express
+- **Web Development**: Tailwind CSS, HTML, CSS
+- **Databases**: MySQL, PostgreSQL, MongoDB
+
+### 🥷 Recent Projects
+- **[Hungry Stomachs](https://hungry-stomachs.vercel.app/)**: A website designed for Hungry Stomachs, a small business of artisanal homemade chocolates. This project enhances their online presence, offering a seamless and premium ordering experience. (work in progress)
+
+### ✨Social✨
+
+- **Email**: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paawanjotkaur05@gmail.com)
+- **Portfolio**: [![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://paawanjotkaur.vercel.app/)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paawanjot-kaur-40b284259/)
+
+### 📨 Get in Touch
+
+Feel free to reach out if you want to discuss projects, collaborate on new ideas, or just say hi!
 
 <!---
 paawanjotk/paawanjotk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
