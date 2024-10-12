@@ -2,13 +2,13 @@
 
 ### 🔧 Skills
 
-- **Programming Languages**: Java, Python, JavaScript
+- **Programming Languages**: Java, Python, JavaScript, Typescript
 - **Frameworks & Tools**: Spring Boot, React, Node.js, Express
 - **Web Development**: Tailwind CSS, HTML, CSS
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
 ### 🥷 Recent Projects
-- **[Hungry Stomachs](https://hungry-stomachs.vercel.app/)**: A website designed for Hungry Stomachs, a small business of artisanal homemade chocolates. This project enhances their online presence, offering a seamless and premium ordering experience. (work in progress)
+- **[Hungry Stomachs](https://hungry-stomachs.vercel.app/)**: A website designed for Hungry Stomachs, a small business of artisanal homemade chocolates. This project enhances their online presence, offering a seamless and premium ordering experience. (v0 complete)
 
 ### ✨Social✨
 
