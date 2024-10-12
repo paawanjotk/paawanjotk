@@ -3,8 +3,8 @@
 ### 🔧 Skills
 
 - **Programming Languages**: Java, Python, JavaScript, Typescript
-- **Frameworks & Tools**: Spring Boot, React, Node.js, Express, React Redux, Razorpay SDK, AWS SDK
-- **Web Development**: Tailwind CSS, HTML, CSS
+- **Frameworks & Tools**: Spring Boot, React, Node.js, Express
+- **Libraries**: Tailwind CSS, React Redux, Razorpay SDK, AWS SDK
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
 ### 🥷 Recent Projects
