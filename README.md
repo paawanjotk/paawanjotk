@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Paawanjot Kaur
 
-[Download My Resume](./paawanjot_resume(1).pdf)
+[Download My Resume](./paawanjot_resume.pdf)
 
 ### 🔧 Skills
 
