@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Paawanjot Kaur
 
+[Download My Resume](./paawanjot_resume(1).pdf)
+
 ### 🔧 Skills
 
 - **Programming Languages**: Java, Python, JavaScript, Typescript
