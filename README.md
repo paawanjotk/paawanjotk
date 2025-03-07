@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Paawanjot Kaur
 
-[Download My Resume](https://raw.githubusercontent.com/paawanjotk/main/paawanjotk_resume.pdf)
+[Download My Resume](https://drive.google.com/file/d/1MDSP8Mz5qKdiqyKIpfbZe5g-2A_AasnR/view?usp=sharing)
 
 ### 🔧 Skills
 
