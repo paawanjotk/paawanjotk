@@ -10,6 +10,8 @@
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
 ### 🥷 Recent Projects
+- **[Fleet Go Go](https://github.com/paawanjotk/fleetgogo)**: A microservices-based backend system for managing fleets of vehicles, drivers, and trips. It enables efficient trip assignments, real-time availability tracking, and seamless communication between services using RabbitMQ. (In Progress)
+  
 - **[Hungry Stomachs](https://hungry-stomachs.vercel.app/)**: A website designed for Hungry Stomachs, a small business of artisanal homemade chocolates. This project enhances their online presence, offering a seamless and premium ordering experience. (v0 complete)
 
 ### ✨Social✨
