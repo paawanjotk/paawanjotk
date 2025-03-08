@@ -17,7 +17,6 @@
 ### ✨Social✨
 
 - **Email**: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paawanjotkaur05@gmail.com)
-- **Portfolio**: [![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://paawanjotkaur.vercel.app/)
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paawanjot-kaur-40b284259/)
 
 ### 📨 Get in Touch
