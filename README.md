@@ -1,29 +1,27 @@
-# 👋 Hi, I’m Paawanjot Kaur
+# Paawanjot Kaur
 
-[Download My Resume](https://drive.google.com/file/d/1MDSP8Mz5qKdiqyKIpfbZe5g-2A_AasnR/view?usp=sharing)
+Backend & systems engineer. I like building things close to the metal.
 
-### 🔧 Skills
+[Email](mailto:paawanjotkaur05@gmail.com) · [LinkedIn](https://www.linkedin.com/in/paawanjot-kaur-40b284259/) · [Resume](https://drive.google.com/file/d/1h6IuBijRTPeLCjTKyawqciznWdByyB10/view?usp=sharing)
 
-- **Programming Languages**: Java, Python, JavaScript, Typescript
-- **Frameworks & Tools**: Spring Boot, React, Node.js, Express
-- **Libraries**: Tailwind CSS, React Redux, Razorpay SDK, AWS SDK
-- **Databases**: MySQL, PostgreSQL, MongoDB
+---
 
-### 🥷 Recent Projects
-- **[Fleet Go Go](https://github.com/paawanjotk/fleetgogo)**: A microservices-based backend system for managing fleets of vehicles, drivers, and trips. It enables efficient trip assignments, real-time availability tracking, and seamless communication between services using RabbitMQ. (In Progress)
-  
-- **[Hungry Stomachs](https://hungry-stomachs.vercel.app/)**: A website designed for Hungry Stomachs, a small business of artisanal homemade chocolates. This project enhances their online presence, offering a seamless and premium ordering experience. (v0 complete)
+## Projects
 
-### ✨Social✨
+**[SQLyt](https://github.com/paawanjotk/SQLyt)**
+Disk-backed database engine in C from first principles — B+ Tree indexing, write-ahead logging, and page-based storage. Benchmarked against SQLite across 6 workload families; achieved 39×–113× speedups on autocommit-heavy writes.
 
-- **Email**: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paawanjotkaur05@gmail.com)
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paawanjot-kaur-40b284259/)
+**[HFT IPC Latency Benchmark](https://github.com/paawanjotk/shm-vs-loopback-bench)**
+IPC benchmark in C++ comparing POSIX shared-memory SPSC vs Unix domain sockets for market data delivery. Lock-free ring buffer with cache-line alignment achieved 80ns p50 vs 1000ns over sockets. Includes FastAPI + Streamlit observability UI.
 
-### 📨 Get in Touch
+**[Fleet Management Backend](https://github.com/paawanjotk/fleetgogo)**
+Event-driven microservices backend in Node.js with RabbitMQ, idempotent consumers, at-least-once delivery guarantees, Redis caching, and full OpenTelemetry + Prometheus observability stack.
 
-Feel free to reach out if you want to discuss projects, collaborate on new ideas, or just say hi!
+---
 
-<!---
-paawanjotk/paawanjotk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+
+**Languages** — C, C++, JavaScript, Python, Java  
+**Backend** — Node.js, Django, Spring Boot, FastAPI  
+**Databases** — PostgreSQL, MongoDB, Redis, MySQL, Cassandra  
+**Infra** — Docker, Kubernetes, RabbitMQ, Prometheus, Terraform
